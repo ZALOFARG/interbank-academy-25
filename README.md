@@ -2,7 +2,7 @@
 # README
 
 ## Introducción
-Este proyecto tiene como finalidad analizar y generar un reporte la data de transacciones de tipo\n
+Este proyecto tiene como finalidad analizar y generar un reporte la data de transacciones de tipo
 crédito y débito que sea hacen en un periodo determinado.
 
 El Reporte debe contener:
