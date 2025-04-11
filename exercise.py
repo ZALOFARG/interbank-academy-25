@@ -40,7 +40,7 @@ def create_report(file):
                 sum_credit += float(fila[2])
 
         # Generacion del reporte con lo requerido
-        print(f"Reporte de Transacciones\n-------------------------------------")
+        print("Reporte de Transacciones\n-------------------------------------")
         print(f"Balance Final: {round(sum_credit - sum_debit, 2)}")
         print(f"Transacción de Mayor Monto: ID {id_max} - {max_value}")
         print(f"Conteo de Transacciones: Crédito: {number_credit} Débito: {number_debit}")
