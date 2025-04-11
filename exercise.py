@@ -1,5 +1,16 @@
 #!/usr/bin/env python3
-# shebang de ejecucion
+
+"""
+exercise.py
+
+This module offers a funct to read, parse and process a csv file.
+It's intended to be used as a data processing tool.
+
+Function:
+    - create_report(file): formulates a bank report
+
+Author: Andre Farfan
+"""
 
 import csv # importamos el modulo CSV para la correcta lectura
 
